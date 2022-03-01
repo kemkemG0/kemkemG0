@@ -1,6 +1,6 @@
 
 
-🌱 I’m currently learning ... Compiler, Rust and web.
+🌱 I’m currently learning web-dev, C++, ml.
 
 ⚡ Fun fact: ... When I get bored, a ten-minute sleep will restore my motivation.
 
