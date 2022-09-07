@@ -1,8 +1,8 @@
 
 
-🌱 I’m currently learning web-dev, C++, ml.
+🌱 I’m currently learning web-dev, C++.
 
-⚡ Fun fact: ... When I get bored, a ten-minute sleep will restore my motivation.
+⚡ Fun fact: ... Even when I'm tired, 10 minutes of sleep will restore me to full strength.
 
 <!-- - 🔭 I’m currently working on ... -->
 <!-- - 👯 I’m looking to collaborate on ... -->
