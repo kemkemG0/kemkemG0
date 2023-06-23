@@ -1,9 +1,11 @@
 # Hi there, I'm kemkemg0! 👋
 
-<!-- repo status -->
+<!-- repo status
 [![kemkemG0's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kemkemG0&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/kemkemG0/)
 
+ -->
 
+ 
 ## About me 🚀
 
 I'm a computer science student at **the University of British Columbia (UBC)** and a technology enthusiast who loves to explore the depths of computer systems.
