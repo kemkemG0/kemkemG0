@@ -1,38 +1,47 @@
-# Hi there, I'm kemkemg0! 👋
+## Kenshin Tanaka
 
-<!-- repo status
-[![kemkemG0's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kemkemG0&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/kemkemG0/)
+**Location:** Vancouver, Canada | **Email:** [kemkemg0@student.ubc.ca](mailto:kemkemg0@student.ubc.ca) | **Phone:** 778-222-1023  
+**GitHub:** [github.com/kemkemG0](https://github.com/kemkemG0) | **LinkedIn:** [linkedin.com/in/kemkemg0](https://www.linkedin.com/in/kemkemg0/)
 
- -->
+## Education
 
- 
-## About me 🚀
+**University of British Columbia** - BSc in Computer Science, 3rd year | Vancouver, BC, (Apr 2025 Grad)
 
-I'm a computer science student at **the University of British Columbia (UBC)** and a technology enthusiast who loves to explore the depths of computer systems.
+## Technical Skills
 
-My passion lies in understanding how things work at lower layers and tinkering with new technologies. I am a problem solver, always eager to learn and grow.
+- **Languages:** Proficient in C, C++, Go, Java, TypeScript, Python, SQL; familiar with Rust and Kotlin for comprehensive and modern software development.
+- **Tools & DevOps:** Extensive experience with Docker, Docker-Compose, GitHub, GitHub Actions, Terraform, Kubernetes; adept in CI/CD practices and Infrastructure as Code (IaC) methodologies.
+- **Frameworks & Libraries:** Expertise in developing scalable applications with Next.js, Nuxt.js, Express; knowledgeable in front-end frameworks such as React and Angular, and back-end frameworks including Flask and Django.
+- **Cloud Platforms & Architecture:** Advanced proficiency with AWS and GCP services, embracing serverless computing and cloud storage solutions; capable of architecting and deploying applications with a deep understanding of network and infrastructure layers.
+- **Database Technologies:** Strong background in traditional relational databases (PostgreSQL, MySQL) and NoSQL (DynamoDB, MongoDB); experienced with vector databases like Qdrant and adept in database clustering.
+- **Performance Monitoring & SRE:** Familiar with SRE practices with tools like Datadog, Sentry, AWS CloudWatch; skilled in defining and monitoring SLIs and SLOs.
+- **Competitive Programming & Problem Solving:** Top 15% ranking in competitive programming; well-versed in algorithms.
+- **Security:** Solid grasp of application security principles, including secure coding practices, OAuth, and fundamental cryptographic concepts.
 
-## Skills 💻
+## Work Experience
 
-Languages: C, C++, Python, Rust, Typescript...etc
+### MemoryLab, Tokyo, Japan | **Software Engineer (Full Stack)** | Aug 2023 - Present
 
-Operating Systems: Linux, MacOS
+- Engineered a cutting-edge natural language search engine leveraging Qdrant, a vector database, to enhance query relevance and accuracy.
+- Pioneered the development of a conversion pipeline to transform natural language queries into vector embeddings, significantly improving search functionality.
+- Constructed a high-performance REST API server using Go, designed to interface seamlessly with a machine learning server, facilitating efficient data processing and retrieval.
+- Orchestrated the deployment of multiple microservices, ensuring their optimal cooperation and functionality within the search engine ecosystem.
 
-Tools: Git/GitHub, Docker, k8s, CI/CD, AWS, GCP...
+### PLAID, Tokyo, Japan | **Software Engineer (Full Stack)** | May 2023 - Aug 2023
 
+- Spearheaded the full-scratch development and architectural design of a complex system that bridges user-initiated events with a dedicated microservice for comprehensive data analysis.
+- Developed and deployed a Go-based Dataflow job, optimizing the processing pipeline for event ingestion from Cloud Pubsub, enhancing throughput and data flow within GCP's ecosystem.
+- Executed the integration of advanced real-time monitoring tools, including Sentry and Datadog, to uphold system reliability and stability, achieving exceptional system uptime.
+- Amplified the robustness of End-to-End (E2E) testing frameworks to support multiple communication channels, automating test processes and database deployment using Cloud Spanner and BigQuery, which resulted in a 50% reduction in E2E test execution times.
 
-## Interests 🌱
+### Freelance Engineer | **Software Engineer (Full Stack)** | Nov 2022 - Present
 
-🛠️ Learning about operating systems internals and computer architecture for a better understanding of the low-level magic
+- Directing the development of a state-of-the-art Know Your Client (KYC) web application tailored for the legal sector, encompassing comprehensive phases from conceptualization to deployment.
+- Implementing the front-end with Nuxt.js and architecting a Typescript-powered Express back-end, all within a Docker-compose orchestrated environment for enhanced scalability and maintainability.
+- Strategically deploying the back-end on AWS ECS and the front-end on AWS Amplify, employing Terraform for infrastructure management, which enables swift transitions and rollbacks between staging and production environments.
 
-🔬 Currently delving into the depths of container technology to gain a comprehensive understanding of the inner workings behind Docker and k8s
+### SOAT Corp, Tokyo, Japan | **Backend and ML Engineer** | Jun 2021 - May 2022
 
-## Connect with me 🤝
-
-📧 Email: kemkemg0@student.ubc.ca
-
-💼 LinkedIn: [kemkemg0](https://www.linkedin.com/in/kemkemg0/)
-
-🐦 || 🐕 Twitter: @kemkemg0
-
-⭐️ Feel free to check out my repositories and star the ones you like! Your support means a lot! ⭐️
+- Collaborated on a team to develop a sophisticated abnormality detection program, using Python and machine learning algorithms, which substantially increased the precision of defect identification in manufacturing.
+- Implemented an OCR tool for financial document analysis, converting PDFs and images to actionable data formats, thereby streamlining data extraction processes.
+- Contributed to the enhancement of large-scale web applications, addressing feature additions and bug resolutions, and employing a diverse stack that includes React, Express, Django, and Laravel for full-stack development capabilities.
