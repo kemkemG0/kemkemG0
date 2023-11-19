@@ -25,7 +25,7 @@
 - Engineered a cutting-edge natural language search engine leveraging Qdrant, a vector database, to enhance query relevance and accuracy.
 - Pioneered the development of a conversion pipeline to transform natural language queries into vector embeddings, significantly improving search functionality.
 - Constructed a high-performance REST API server using Go, designed to interface seamlessly with a machine learning server, facilitating efficient data processing and retrieval.
-- Orchestrated the deployment of multiple microservices, ensuring their optimal cooperation and functionality within the search engine ecosystem.
+- Orchestrated the deployment of multiple microservices, ensuring their optimal cooperation and functionality within the search engine ecosystem. Fostered a culture of innovation and team collaboration.
 
 ### PLAID, Tokyo, Japan | **Software Engineer (Full Stack)** | May 2023 - Aug 2023
 
