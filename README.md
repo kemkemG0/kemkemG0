@@ -34,7 +34,7 @@
 - Executed the integration of advanced real-time monitoring tools, including Sentry and Datadog, to uphold system reliability and stability, achieving exceptional system uptime.
 - Amplified the robustness of End-to-End (E2E) testing frameworks to support multiple communication channels, automating test processes and database deployment using Cloud Spanner and BigQuery, which resulted in a 50% reduction in E2E test execution times.
 
-### Freelance Engineer | **Software Engineer (Full Stack)** | Nov 2022 - Present
+### Freelance Engineer | **Full-stack Web Developer** | Nov 2022 - Present
 
 - Directing the development of a state-of-the-art Know Your Client (KYC) web application tailored for the legal sector, encompassing comprehensive phases from conceptualization to deployment.
 - Implementing the front-end with Nuxt.js and architecting a Typescript-powered Express back-end, all within a Docker-compose orchestrated environment for enhanced scalability and maintainability.
