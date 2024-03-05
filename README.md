@@ -14,15 +14,14 @@
 - **Frameworks & Libraries:** Expertise in developing scalable applications with Next.js, Nuxt.js, Express; knowledgeable in front-end frameworks such as React and Angular, and back-end frameworks including Flask and Django.
 - **Cloud Platforms & Architecture:** Advanced proficiency with AWS and GCP services, embracing serverless computing and cloud storage solutions; capable of architecting and deploying applications with a deep understanding of network and infrastructure layers.
 - **Database Technologies:** Strong background in traditional relational databases (PostgreSQL, MySQL) and NoSQL (DynamoDB, MongoDB); experienced with vector databases like Qdrant and adept in database clustering.
-- **Performance Monitoring & SRE:** Familiar with SRE practices with tools like Datadog, Sentry, AWS CloudWatch; skilled in defining and monitoring SLIs and SLOs.
+- **Performance Monitoring & SRE skills:** Familiar with SRE practices with tools like Datadog, Sentry, AWS CloudWatch; skilled in defining and monitoring SLIs and SLOs.
 - **Competitive Programming & Problem Solving:** Top 15% ranking in competitive programming; well-versed in algorithms.
-- **Security:** Solid grasp of application security principles, including secure coding practices, OAuth, and fundamental cryptographic concepts.
 
 ## Work Experience
 
 ### MemoryLab, Tokyo, Japan | **Software Engineer (Full Stack)** | Aug 2023 - Present
 
-- Engineered a cutting-edge natural language search engine leveraging Qdrant, a vector database, to enhance query relevance and accuracy.
+- Engineered a natural language search engine leveraging Qdrant on AWS EKS, enhancing query accuracy with RAG implementation for advanced processing.
 - Pioneered the development of a conversion pipeline to transform natural language queries into vector embeddings, significantly improving search functionality.
 - Constructed a high-performance REST API server using Go, designed to interface seamlessly with a machine learning server, facilitating efficient data processing and retrieval.
 - Orchestrated the deployment of multiple microservices, ensuring their optimal cooperation and functionality within the search engine ecosystem. Fostered a culture of innovation and team collaboration.
