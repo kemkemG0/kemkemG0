@@ -10,7 +10,7 @@ pdf:
 	docker run \
     --rm -v "$(PWD):/data" markdown-to-pdf \
     --from=markdown --to=pdf --pdf-engine=xelatex \
-    -V fontsize=9pt -V geometry:margin=0.20in -V pagestyle=empty -V linkcolor=blue -V mainfont="Times New Roman" -V paragraph-spacing=0.3mm \
+    -V fontsize=9pt -V geometry:margin=0.10in -V pagestyle=empty -V linkcolor=blue -V mainfont="Times New Roman" -V paragraph-spacing=0.2mm \
     -o "Kensin_Tanaka_Resume.pdf" "README.md"
 
 
