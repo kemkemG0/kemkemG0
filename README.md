@@ -9,6 +9,10 @@
 
 ## Work Experience
 
+### Amazon Web Services (AWS), Tokyo, Japan | **Professional Service Consultant** | August 2025 
+
+- Incoming Professional Service Consultant at AWS Japan, starting August 2025.
+
 ### RestUp, San Francisco, CA | **Software Engineer** | July 2024 - Present
 
 - Designed and implemented an **ETL pipeline** using **Kafka**, **AWS Firehose**, **Lambda**, and **Redshift Serverless** to process crawled data efficiently.
